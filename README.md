@@ -7,4 +7,4 @@ A quick project I wanted to do that changes web page background colour matching 
 
 #### Why did I make this?
 
-Basically to just prove to myself that I have learnt enough to build a very basic website, that implements CSS, HTML & JS all in one.
+Basically just to prove to myself that I can apply some of what I have learnt to build a very basic page that implements CSS, HTML & JS.
