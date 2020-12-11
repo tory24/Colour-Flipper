@@ -1,4 +1,4 @@
-# Colour-Flipper
+# Colour Flipper
 
 A quick project I wanted to do that changes web page background colour matching the colour to the displayed RGB or HEX value on page.
 
