@@ -31,14 +31,9 @@ nav a {
     text-decoration: none;
 }
 
-nav a.active {
+nav a.active-page {
     color: rgb(0, 0, 0);
 }
-
-nav a {
-    color: rgba(128, 0, 128, 0.692);
-}
-
 
 /***** Colour Buttons *****/
 main {
@@ -57,7 +52,6 @@ main {
     left: 50%;
     margin-right: -50%;
     letter-spacing: 0.2em;
-    cursor: pointer;
 }
 
 .colour-box {
